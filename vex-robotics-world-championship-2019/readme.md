@@ -18,4 +18,6 @@ This project documents the design and development of a competition robot for the
 - Rapid prototyping
 
 ## Media
+![IMG-20190323-WA0005](https://github.com/user-attachments/assets/60804d76-5403-4b64-9e03-6a29692057e4)
+
 (Add images/videos of the robot here)
