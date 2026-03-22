@@ -1,0 +1,23 @@
+# Cartesian Robot Vibration Control using Input Shaping
+
+## Overview
+Research project focused on vibration suppression in a PPP Cartesian robot with variable Z-axis dynamics for automated optical inspection (AOI).
+
+## Contributions
+- Development of input shaping control strategies
+- Modeling of system dynamics and natural frequencies
+- Analysis of vibration behavior during motion
+
+## Technologies
+- Control systems
+- MATLAB / Python (if applicable)
+- Robotics
+
+## Application
+Improving precision in automated inspection systems (AOI for PCBs)
+
+## Status
+Ongoing research project
+
+## Media
+(Add plots, simulations, or robot images)
