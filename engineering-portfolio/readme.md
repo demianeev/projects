@@ -23,4 +23,3 @@ https://github.com/user-attachments/assets/79a89012-87db-4dca-bd17-a8883e4726ef
 ![IMG_20241119_092840](https://github.com/user-attachments/assets/549e21f2-fc0e-4699-b8b6-bb2d1cd67329)
 ![IMG_20241119_091441](https://github.com/user-attachments/assets/cacaf2e2-edaa-415d-9ffc-a5a0c51089f7)
 ![IMG-20210417-WA0008](https://github.com/user-attachments/assets/f065b72e-eda2-41c0-9eae-1a2212fd23fb)
-![IMG-20220912-WA0009](https://github.com/user-attachments/assets/06de5abc-303e-4236-920f-b75285320425)
