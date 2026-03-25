@@ -1,23 +1,23 @@
-##Overview
+## Overview
 
 Designed and implemented a pick-and-place robotic system capable of automatically transferring objects between predefined positions. The project focuses on basic robotic manipulation, motion control, and task sequencing.
 
-##System Description
+## System Description
 Robotic manipulator (Intro to Robotics setup)
 Programmed motion sequence for pick and place tasks
 Controlled via predefined coordinates and simple logic
 
-##Key Features
+## Key Features
 Automated object pick-and-place routine
 Repeatable positioning using fixed coordinates
 Basic motion planning and sequencing
 
-##Learning Outcomes
+## Learning Outcomes
 Fundamentals of robotic manipulation
 Coordinate-based motion control
 Task automation in robotic systems
 
-##Media
+## Media
 ![IMG-20251216-WA0009](https://github.com/user-attachments/assets/b1ea5c61-c5c3-408f-89b5-5dc6b1cc328d)
 ![IMG-20251024-WA0004](https://github.com/user-attachments/assets/f0639d4c-0fe6-4d3e-adfc-e0a9bca4b20e)
 
