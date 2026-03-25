@@ -17,4 +17,4 @@ This repository contains selected engineering projects in robotics, control syst
 - Automation
 
 ## Contact
-LinkedIn: (link)
+
