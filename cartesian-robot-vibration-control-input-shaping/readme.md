@@ -20,4 +20,5 @@ Improving precision in automated inspection systems (AOI for PCBs)
 Ongoing research project
 
 ## Media
-(Add plots, simulations, or robot images)
+![IMG-20251214-WA0004](https://github.com/user-attachments/assets/58f05f17-7b95-4d55-980d-9cd119661f3f)
+
